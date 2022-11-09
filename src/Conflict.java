@@ -7,5 +7,6 @@ public class Conflict
         System.out.println("newCommit");
         System.out.println("second conflict i just made changes ");
 
+
     }
 }
