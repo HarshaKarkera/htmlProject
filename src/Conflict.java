@@ -4,6 +4,7 @@ public class Conflict
     {
         System.out.println("trying the conflict");
         System.out.println("second conflict ");
+        System.out.println("newCommit");
 
     }
 }
